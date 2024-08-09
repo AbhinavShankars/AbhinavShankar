@@ -1,4 +1,5 @@
-### Hello Team  👋  I'm Abhinav Shankar
+## 💡 About Me    
+   #### Hello Team  👋  I'm Abhinav Shankar
 
 ●   9+ years of experience, with expertise in development of B2C and B2B Enterprise applications with SAP Hybris Commerce (CX)
    and window base application along with spring-boot as micro-service.  
@@ -10,16 +11,16 @@
    application in a shorter span of time.  
 ●  Good interpersonal skills, committed, result oriented, hardworking with a quest and zeal to learn new technologies.  
 
-### Technical Skill ⚡ ⚡ :
+### Technical Skill ⚡ ⚡ 
 
-● Java {JDK1.8 and JDK11}
-● AWS with EC2 and S3   
+● Java {JDK1.8 and JDK11}   
+● AWS with EC2 and S3      
 ● AWS Lamda  
 ● SAP Hybris Commerce Cloud  
 ● Spring-boot with Rest-API  
 ● ReactJS with custom component
 
-### Database Skill ⚡ ⚡ :
+### Database Skill ⚡ ⚡ 
 ● Oracle 11g  
 ● MySQL  
 ● SqlServer R2 
