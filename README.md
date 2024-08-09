@@ -4,15 +4,15 @@ I completed my Engineering in Electronics from RGPV University, India. Apart fro
 
 ## Technical Skill Interest:
 
-Java
-AWS with EC2 and S3 
-AWS Lamda
-SAP Hybris Commerce Cloud
-Spring-boot with Rest-API
-ReactJS with custom component
+● Java  
+● AWS with EC2 and S3   
+● AWS Lamda  
+● SAP Hybris Commerce Cloud  
+● Spring-boot with Rest-API  
+● ReactJS with custom component
 
 
 ## Collaboration work
-B2c and B2B ecommerce applicatoin ,
-Springboot with REST API Development and
+● B2C and B2B ecommerce apllication ,  
+● Springboot with REST API Development
 
