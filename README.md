@@ -12,7 +12,7 @@
    application in a shorter span of time.  
 ●  Good interpersonal skills, committed, result oriented, hardworking with a quest and zeal to learn new technologies.  
 
-### Technical Skill ⚡ ⚡ 
+### Technical Skill  🛠   
 
 ● Java {JDK1.8 and JDK11}   
 ● AWS with EC2 and S3      
