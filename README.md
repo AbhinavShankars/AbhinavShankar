@@ -10,15 +10,19 @@
    application in a shorter span of time.  
 ●  Good interpersonal skills, committed, result oriented, hardworking with a quest and zeal to learn new technologies.  
 
-### Technical Skill Interest:
+### Technical Skill ⚡ ⚡ :
 
-● Java  
+● Java {JDK1.8 and JDK11}
 ● AWS with EC2 and S3   
 ● AWS Lamda  
 ● SAP Hybris Commerce Cloud  
 ● Spring-boot with Rest-API  
 ● ReactJS with custom component
 
+### Database Skill ⚡ ⚡ :
+● Oracle 11g  
+● MySQL  
+● SqlServer R2 
 
 ### Collaboration work
 ● B2C and B2B ecommerce apllication ,  
