@@ -1,10 +1,7 @@
 ## 🚀 About Me    
-   #### Hello Team  👋  I'm Abhinav Shankar passion for Java || Springboot || AWS and SAP Hybris Commerce 🌱     
+   #### Hello Team  👋  I'm Abhinav Shankar passion for Java || Springboot || AWS and SAP Hybris Commerce 🌱        
 
-   ![image](https://github.com/user-attachments/assets/0e7cc3f8-553d-41f4-a628-1ee2d82bba18)
-
- 
-
+      
 ●   9+ years of experience, with expertise in development of B2C and B2B Enterprise applications with SAP Hybris Commerce (CX)
    and window base application along with spring-boot as micro-service.  
 ●  Having good knowledge of understanding third-party API with oauth2.0 and React-JS as component based.  
