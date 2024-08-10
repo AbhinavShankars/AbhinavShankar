@@ -8,14 +8,9 @@
 
  ### <h3 style="color:Tomato;"> ![proo](https://github.com/user-attachments/assets/21f11d05-785a-44f5-be2d-64044a72911d)  Proffetional Summary </h3>
 
-●  Expertise in development of B2C and B2B Enterprise applications with and window base application along with spring-boot as micro-service.  
+●  Expertise in development of B2C and B2B Enterprise applications with SAP Hybris Commerce and window base application along with spring-boot as micro-service.  
 ●  Having good knowledge of understanding third-party API with oauth2.0 and React-JS as component based.  
-●  Experienced in designing and executing test cases based on Business requirements and Technical Specifications.  
-●  Experience in Defect management which include Identifying, Analysing, Prioritizing, Tracking, pursuing with the development
-   team for the closure of defects, participating in Defect triage meetings, conducting root cause analysis.  
-●  Proven abilities to handle pressure & to provide quick fixes during critical times. Ability to handle any defect on any java
-   application in a shorter span of time.  
-●  Good interpersonal skills, committed, result oriented, hardworking with a quest and zeal to learn new technologies.  
+●  Expertise in Docker and AWS With Lamda.
 
 
 <h3>🛠 Technical Skill </h3>  
