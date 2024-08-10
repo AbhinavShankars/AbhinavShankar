@@ -8,8 +8,7 @@
 
  ## ![proo](https://github.com/user-attachments/assets/21f11d05-785a-44f5-be2d-64044a72911d)  Proffetional Summary
 
-●   9+ years of experience, with expertise in development of B2C and B2B Enterprise applications with SAP Hybris Commerce (CX)
-   and window base application along with spring-boot as micro-service.  
+●  Expertise in development of B2C and B2B Enterprise applications with SAP Hybris Commerce (CX) and window base application along with spring-boot as micro-service.  
 ●  Having good knowledge of understanding third-party API with oauth2.0 and React-JS as component based.  
 ●  Experienced in designing and executing test cases based on Business requirements and Technical Specifications.  
 ●  Experience in Defect management which include Identifying, Analysing, Prioritizing, Tracking, pursuing with the development
