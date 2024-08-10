@@ -19,7 +19,7 @@
 ●  Good interpersonal skills, committed, result oriented, hardworking with a quest and zeal to learn new technologies.  
 
 
-### Technical Skill  🛠   
+###  🛠 Technical Skill   
 ##  
 ● Java {JDK1.8 and JDK11}   
 ● AWS with EC2 and S3      
@@ -28,7 +28,7 @@
 ● Spring-boot with Rest-API  
 ● ReactJS with custom component
  
-### Database Skill ⚡ ⚡
+### ⚡ Database Skill 
 ## 
 ● Oracle 11g  
 ● MySQL  
