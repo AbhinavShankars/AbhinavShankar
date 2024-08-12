@@ -3,6 +3,11 @@
 
  <h4 style="color:red;" align="left">Hello Team  👋, I'm Abhinav Shankar passion & Enthusiastic for Java || Springboot || AWS and SAP Hybris Commerce 🌱 </h4>  
 
+## <h3> ![work](https://github.com/user-attachments/assets/c26ee788-886b-46be-9085-42f72617f86e) Current Work</h3>
+
+* Developing SAP Hybris Connector to consume response and showcase on front-end.
+* Status - work in progress....
+
  ### <h3 style="color:Tomato;"> ![proo](https://github.com/user-attachments/assets/49a0dc1f-70e7-485f-b86a-5ca09a431eb3)   Professional Summary </h3>
 
 ●  Expertise in development of B2C and B2B Enterprise applications with SAP Hybris Commerce and window base application along with spring-boot as micro-service.  
